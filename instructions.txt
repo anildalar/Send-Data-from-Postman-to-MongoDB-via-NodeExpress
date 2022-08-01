@@ -1,0 +1,22 @@
+Send Data from postman and save in MongoDB via Node/Express
+
+
+Client(Postman) ---------> Server(Node/Express)-----> Database(NoSQL-MongoDb)
+
+You can send data from client side
+
+1. Query String 
+2. JSON Payload
+			POstman 
+				POST BODY RAW JSON
+3. URL Segment
+
+Connection String
+
+
+HOw many operation you can do with Databases ?
+4
+
+CRUD
+
+1. Create Operation but with help postman 
